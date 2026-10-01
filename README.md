@@ -75,7 +75,6 @@ During my undergraduate research at UFRPE, I worked on computational models of b
 
 [![GitHub contribution streak](https://streak-stats.demolab.com/?user=tillingspore&theme=github-dark-blue&hide_border=true)](https://git.io/streak-stats)
 
-[![Activity graph for the last 31 days](https://github-readme-activity-graph.vercel.app/graph?username=tillingspore&theme=github-compact&hide_border=true)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
 ---
 
